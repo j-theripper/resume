@@ -238,8 +238,8 @@ sup {
 
 a {
   color: #bd5d38;
-  text-decoration: underline;
   text-transform: lowercase;
+  text-decoration: underline;
 }
 a:hover {
   color: #974a2d;
